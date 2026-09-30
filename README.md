@@ -54,6 +54,7 @@ Após aplicar essas ações, a taxa de cancelamento caiu de 56,8% para 18,4%.
 
 3. Abra o notebook `analise.ipynb` no Jupyter e execute as células.
 
-## Autor
+## Créditos
 
-[fernandonavarrost-cpu](https://github.com/fernandonavarrost-cpu)
+Projeto baseado no material da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
+
